@@ -11,4 +11,5 @@
 - edit by Jason
 ---
 ## **概念图**
+- ~~没错灵感就是来自于[Stage1st动漫投票鉴赏](http://labs.ieph.net/s1acvotecloud/ "Stage1st动漫投票鉴赏")~~
 ![未来的概念图](concept_map.jpg)
