@@ -1,0 +1,11 @@
+{
+  "name": "felab",
+  "version": "1.0.0",
+  "description": "a front end lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "author": "Jason Zou",
+  "license": "ISC"
+}
